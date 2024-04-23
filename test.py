@@ -85,7 +85,7 @@ st.pyplot(fig)
 # Create a DataFrame with the latitude and longitude columns
 
 
-
+#map
 st.write('Map:')
 map_data = pd.DataFrame(
    
